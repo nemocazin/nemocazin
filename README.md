@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤴 French student working on Embedded Systems<br>📘 Polytech Lille / Politecnico Di Milano<br>
+🤴 French student working on Embedded Systems<br>📘 Polytech Lille, France
 
 
 ## 🌐 Socials:
