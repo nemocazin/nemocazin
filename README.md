@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [unobtrusive-logs](https://github.com/nemocazin/unobtrusive-logs)<br>📚 I'm currently learning [Elixir](https://elixir-lang.org/)</p>
+<p align="left">
+🔭 I'm currently working on <a href="https://github.com/nemocazin/unobtrusive-logs">unobtrusive-logs</a><br>
+📚 I'm currently learning <a href="https://elixir-lang.org/">Elixir</a>
+</p>
 
 ###
 
